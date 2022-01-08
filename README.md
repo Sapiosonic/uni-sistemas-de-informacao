@@ -1,5 +1,7 @@
 # uni-sistemas-de-informacao
-# Anotações da matéria Sistemas de Informação do curso de Tecnologia em Análise e Desenvolvimento de Sistemas
+# SISTEMAS DE INFORMAÇÃO
+
+## Anotações da matéria Sistemas de Informação do curso de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Esse repositório é dedicado a guardar minhas anotações referentes a disciplina 'Sistemas de Informação' cursada 
 no terceiro semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do Centro Universitário 
